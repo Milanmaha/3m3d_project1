@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">INNOVITAL</string>
+    <string name="rx">RX:</string>
+    <string name="read_buff">0%</string>
+    <string name="app_status">Status:</string>
+    <string name="bluetooth_status">Bluetooth Status</string>
+    <string name="bluetooth_on">Bluetooth ON</string>
+    <string name="bluetooth_off">Bluetooth OFF</string>
+    <string name="show_devices">Show Paired Devices</string>
+    <string name="discover_devices">Discover New Devices</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">3M3D Robotics</string>
+    <string name="dummy_content">3M3D\nROBOTICS</string>
+    <string name="register_device">Register</string>
+</resources>
